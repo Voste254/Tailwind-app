@@ -25,7 +25,6 @@ function Navbar() {
 
   </div>
 </nav>
-<p className='oldstyle-nums'>123456789</p>
     </div>
   )
 }
